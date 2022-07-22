@@ -16,3 +16,9 @@ Author: Peter Lorenz, peter.lorenz (a) itwm.fraunhofer.de
  # Colob
  
  https://colab.research.google.com/drive/1il6RQZhhCLUKKwMc2O6C0OC5uZXQxa6R?usp=sharing
+
+
+
+# Similar
+
+https://github.com/ferjad/adversarial_generation_eot/blob/master/adv%20batch.ipynb
